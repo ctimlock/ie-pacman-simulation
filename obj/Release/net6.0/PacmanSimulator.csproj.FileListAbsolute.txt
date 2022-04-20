@@ -1,0 +1,15 @@
+C:\Users\Charlie\Projects\software-development\PacmanSimulator\bin\Release\net6.0\PacmanSimulator.exe
+C:\Users\Charlie\Projects\software-development\PacmanSimulator\bin\Release\net6.0\PacmanSimulator.deps.json
+C:\Users\Charlie\Projects\software-development\PacmanSimulator\bin\Release\net6.0\PacmanSimulator.runtimeconfig.json
+C:\Users\Charlie\Projects\software-development\PacmanSimulator\bin\Release\net6.0\PacmanSimulator.dll
+C:\Users\Charlie\Projects\software-development\PacmanSimulator\bin\Release\net6.0\PacmanSimulator.pdb
+C:\Users\Charlie\Projects\software-development\PacmanSimulator\obj\Release\net6.0\PacmanSimulator.csproj.AssemblyReference.cache
+C:\Users\Charlie\Projects\software-development\PacmanSimulator\obj\Release\net6.0\PacmanSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Charlie\Projects\software-development\PacmanSimulator\obj\Release\net6.0\PacmanSimulator.AssemblyInfoInputs.cache
+C:\Users\Charlie\Projects\software-development\PacmanSimulator\obj\Release\net6.0\PacmanSimulator.AssemblyInfo.cs
+C:\Users\Charlie\Projects\software-development\PacmanSimulator\obj\Release\net6.0\PacmanSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Charlie\Projects\software-development\PacmanSimulator\obj\Release\net6.0\PacmanSimulator.dll
+C:\Users\Charlie\Projects\software-development\PacmanSimulator\obj\Release\net6.0\refint\PacmanSimulator.dll
+C:\Users\Charlie\Projects\software-development\PacmanSimulator\obj\Release\net6.0\PacmanSimulator.pdb
+C:\Users\Charlie\Projects\software-development\PacmanSimulator\obj\Release\net6.0\PacmanSimulator.genruntimeconfig.cache
+C:\Users\Charlie\Projects\software-development\PacmanSimulator\obj\Release\net6.0\ref\PacmanSimulator.dll
